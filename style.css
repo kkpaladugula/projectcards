@@ -1,0 +1,21 @@
+.container-fluid2{
+    display: flex;
+    color: white;
+    background-color: gray;
+    border-radius: 5px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.mailinfo{
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+}
+container-fluid2>div.strong{
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.card{
+    display: flex;
+}
